@@ -2,21 +2,21 @@
   "wallpapers": [
     {
       "author": "Savzzz",
-      "url": "https://github.com/savzzz/AquiverKLWP/blob/master/Wallpapers/Clarity.png",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Dusk.jpg",
       "name": "Clarity",
-      "thumbnail": "https://github.com/savzzz/AquiverKLWP/blob/master/Wallpapers/Clarity.png"
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Dusk_thumb.jpg"
     },
     {
       "author": "Savzzz",
-      "url": "https://github.com/savzzz/AquiverKLWP/blob/master/Wallpapers/Closure.png",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Roads.jpg",
       "name": "Closure",
-      "thumbnail": "https://github.com/savzzz/AquiverKLWP/blob/master/Wallpapers/Closure.png"
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Roads_thumb.jpg"
     },
     {
       "author": "NASA",
-      "url": "https://github.com/savzzz/AquiverKLWP/blob/master/Wallpapers/NASA.jpg",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Shooting_Star.jpg",
       "name": "NASA Space Shuttle",
-      "thumbnail": "https://github.com/savzzz/AquiverKLWP/blob/master/Wallpapers/NASA.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Shooting_Star_thumb.jpg"
     }
   ]
 }
