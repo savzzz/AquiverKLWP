@@ -1,0 +1,22 @@
+{
+  "wallpapers": [
+    {
+      "author": "Savzzz",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Dusk.jpg",
+      "name": "Clarity",
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Dusk_thumb.jpg"
+    },
+    {
+      "author": "Savzzz",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Roads.jpg",
+      "name": "Closure",
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Roads_thumb.jpg"
+    },
+    {
+      "author": "NASA",
+      "url": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Full%20Resolution/Shooting_Star.jpg",
+      "name": "NASA Space Shuttle",
+      "thumbnail": "https://raw.githubusercontent.com/KustomIndustries/KAPK-Walls/master/Wallpapers/Thumbnails/Shooting_Star_thumb.jpg"
+    }
+  ]
+}
